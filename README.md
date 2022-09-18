@@ -1,4 +1,5 @@
-![](https://user-images.githubusercontent.com/77393308/190911310-cbe1fdaa-c500-49e8-9410-e2af67403213.gif)
+![](https://user-images.githubusercontent.com/77393308/190912995-0e2987e2-f86c-419c-b59d-ded6b8c266cf.gif)
+
 
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Anubhav Joshi</h1>
