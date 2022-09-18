@@ -1,4 +1,4 @@
-![](https://github.com/anubhav860/anubhav860/blob/main/download.gif)
+![](https://user-images.githubusercontent.com/77393308/190911310-cbe1fdaa-c500-49e8-9410-e2af67403213.gif)
 
 <h1 align="center">Hi 👋, I'm Anubhav Joshi</h1>
 <h3 align="center">A passionate Coder from India Living my life to the fullest ;></h3>
