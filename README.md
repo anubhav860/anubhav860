@@ -3,7 +3,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Anubhav Joshi</h1>
 <h3 align="center">A passionate Coder from India Living my life to the fullest ;></h3>
-<br>- 📝 I’m currently Studying at **Graphic Era Hill University**<br><br>- 🌱 I’m currently learning About **DevOps and its tool**<br><br>- 🤝 Currently pursuing **B.Tech in CSE (2019-2023)**<br><br>- 📫 How to reach me **- Anubhavjoshi860@gmail.com**<br><br>- ⚡About me **-I Try to learn Something everyday!!!**<br><br><br>
+<br>- 📝 I’m currently Studying at  Graphic Era Hill University<br><br>- 🌱 I’m currently learning About  DevOps and its tool <br><br>- 🤝 Currently pursuing  B.Tech in CSE (2019-2023)<br><br>- 📫 How to reach me - Anubhavjoshi860@gmail.com <br><br>- ⚡About me **-I Try to learn Something everyday!!!**<br><br><br>
 
 ## 🌐 Get In Touch With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/anubhav.joshi.1029) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anubhav_joshii/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/anubhav-joshi-92428a230) <br><br><br><br>
