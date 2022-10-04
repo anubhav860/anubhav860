@@ -1,6 +1,7 @@
-![](https://user-images.githubusercontent.com/77393308/190913069-edbc3fc6-eae7-40c3-b1d4-3794761aa291.gif)
 
 # 💫 About Me:
+![](https://user-images.githubusercontent.com/77393308/190913069-edbc3fc6-eae7-40c3-b1d4-3794761aa291.gif)
+
 <h1 align="center">Hi 👋, I'm Anubhav Joshi</h1>
 <h3 align="center">A passionate Coder from India Living my life to the fullest ;></h3>
 <br>- 📝 I’m currently Studying at  Graphic Era Hill University<br><br>- 🌱 I’m currently learning About  DevOps and its tool <br><br>- 🤝 Currently pursuing  B.Tech in CSE (2019-2023)<br><br>- 📫 How to reach me - Anubhavjoshi860@gmail.com <br><br>- ⚡About me **-I Try to learn Something everyday!!!**<br><br><br>
